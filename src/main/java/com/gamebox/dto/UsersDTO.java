@@ -1,6 +1,6 @@
 package com.gamebox.dto;
 
-import java.security.Timestamp;
+import java.sql.Timestamp;
 
 public class UsersDTO {
 

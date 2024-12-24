@@ -3,7 +3,7 @@
 <html>
 <head>
     <title>GameBox</title>
-    <meta http-equiv="refresh" content="o; URL=home.do">
+    <meta http-equiv="refresh" content="0; URL=home.do">
 </head>
 <body>
    <p>Redirecting to Home...</p>

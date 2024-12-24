@@ -16,7 +16,7 @@ public class UsersDAO {
 			
 				pstmt.setString(1, username);
 			
-			try	(ResultSet rs = pstmt.executeQuery() { 
+			try	(ResultSet rs = pstmt.executeQuery()) { 
 				if (rs.next()) {
 					user = new UsersDTO();
 					user.setUserId(rs.getInt("USER_ID"));
